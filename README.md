@@ -15,3 +15,6 @@ docker exec -it app sh
 ```
 
 ## Add to file expense.csv yours expenses
+
+
+### Run project em: http://localhost:3000
